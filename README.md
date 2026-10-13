@@ -1,1 +1,2 @@
-# campus-event-manager
+# Usage
+updating the readme file directly .
